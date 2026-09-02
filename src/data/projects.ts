@@ -25,7 +25,7 @@ export const projects: Project[] = [
     dates: 'Jan 2026 – May 2026',
     image: '/atelier-image.jpg',
     liveUrl: 'https://atelierart.dev/',
-    repoUrl: 'https://github.com/mrunkle01/Capstone',
+    repoUrl: 'https://github.com/atorres502/Atelier',
   },
   {
     title: 'Compiler Project',
