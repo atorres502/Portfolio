@@ -36,4 +36,13 @@ export const projects: Project[] = [
     image: '/compiler-picture.avif',
     repoUrl: 'https://github.com/atorres502/CompilerProject',
   },
+  {
+    title: 'Social Media Simulation',
+    description:
+      'A Java simulation of social media platforms pushing feed updates to subscribed users. Demonstrates three design patterns: Strategy for word-count analysis of feed text, Observer for notifying subscribers of updates, and Factory for creating platform instances. Loads news items, spins up three platforms with different update rates, manages cross-platform subscriber relationships, and runs 20 simulation rounds producing feed and word-analysis output.',
+    tech: ['Java', 'Design Patterns'],
+    dates: 'Oct 2025 – Nov 2025',
+    image: '/social-media-simulation.png',
+    repoUrl: 'https://github.com/atorres502/Social-Media-Simulation',
+  },
 ]
