@@ -14,7 +14,7 @@ const sectionIds = links.map((link) => link.href.slice(1))
 
 const socials = [
   {
-    href: 'https://www.linkedin.com/in/alejandro-torres-2b2a5a367/',
+    href: 'https://www.linkedin.com/in/alejandro-torres52/',
     label: 'LinkedIn',
     Icon: LinkedInIcon,
   },
