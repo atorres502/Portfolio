@@ -24,7 +24,7 @@ function Hero() {
         Alejandro Torres
       </h1>
       <p className="mt-4 text-lg text-slate-600 dark:text-slate-400">
-        Software Engineer | Full Stack Developer | C++ | Django | React | Java
+        Software Engineer | Full Stack Developer | C++ | Django | React | Java | Python
       </p>
       <span className="mt-4 inline-block rounded-full border border-indigo-200 bg-indigo-50 px-3 py-1 text-xs font-medium text-indigo-700 dark:border-indigo-800 dark:bg-indigo-950/40 dark:text-indigo-300">
         Open to Software Engineering internships & new-grad roles

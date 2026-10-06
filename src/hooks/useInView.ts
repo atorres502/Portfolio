@@ -10,10 +10,7 @@ export function useInView<T extends HTMLElement>() {
 
     const observer = new IntersectionObserver(
       ([entry]) => {
-        if (entry.isIntersecting) {
-          setInView(true)
-          observer.unobserve(el)
-        }
+        setInView(entry.isIntersecting)
       },
       { threshold: 0.15 },
     )
