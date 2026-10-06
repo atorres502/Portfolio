@@ -9,7 +9,7 @@ function Footer() {
       <SectionHeading center>Get in touch</SectionHeading>
       <div className="flex justify-center gap-6 text-sm font-medium">
         <a
-          href="https://www.linkedin.com/in/alejandro-torres-2b2a5a367/"
+          href="https://www.linkedin.com/in/alejandro-torres52/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-indigo-600 hover:underline dark:text-indigo-400"
